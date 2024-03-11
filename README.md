@@ -1,8 +1,93 @@
-# React + Vite
+<!DOCTYPE html>
+<html lang="en">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+</head>
 
-Currently, two official plugins are available:
+<body>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  <h1 align="center">Jio Saavn Clone</h1>
+
+  <p align="center">
+    A React-based web application inspired by Jio Saavn, allowing users to explore and listen to their favorite music.
+  </p>
+
+  <!-- Badges -->
+  <div align="center">
+
+
+  </div>
+
+  <hr>
+
+ 
+
+  ## Features
+
+  - **Music Exploration:** Explore a vast library of music tracks and albums.
+  - **Search Functionality:** Search for your favorite songs, artists, or albums.
+  - **User Authentication:** Sign in and create personalized playlists.
+  - **Responsive Design:** Enjoy a seamless experience across devices.
+
+  <!-- Add more features as needed -->
+
+  ## Screenshots
+
+  <!-- Add screenshots or GIFs of your application in action -->
+
+  ## Installation
+
+  1. Clone the repository:
+
+     ```bash
+     git clone https://github.com/Official-Krish/Jio-Savan
+     ```
+
+  2. Navigate to the project directory:
+
+     ```bash
+     cd jio-saavn-clone
+     ```
+
+  3. Install dependencies:
+
+     ```bash
+     npm install
+     ```
+
+  ## Usage
+
+  1. Start the development server:
+
+     ```bash
+     npm start
+     ```
+
+  2. Open your browser and visit [http://localhost:3000](http://localhost:3000)
+
+  3. This project is live at [https://jio-savan-omega.vercel.app/](https://jio-savan-omega.vercel.app/)
+
+  <!-- Add more usage instructions as needed -->
+
+  ## Contributing
+
+  Contributions are welcome! Follow these steps to contribute to the project:
+
+  1. Fork the repository
+  2. Create a new branch (`git checkout -b feature/your-feature`)
+  3. Commit your changes (`git commit -m 'Add your feature'`)
+  4. Push to the branch (`git push origin feature/your-feature`)
+  5. Open a pull request
+
+  ## License
+
+  This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+  <!-- Add specific license details if necessary -->
+
+</body>
+
+</html>
